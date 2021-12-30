@@ -22,7 +22,7 @@ N/A
 ## Technologies
 - HTML 
 - CSS
--J avaScript
+- JavaScript
 
 ## Usage
 Webpage available here:
