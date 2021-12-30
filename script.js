@@ -11,7 +11,7 @@ const userChoice = () => {
   } else if (userSelect === "s") {
     return "Scissors";
   } else {
-    return alert("invalid input. How dare you.");
+    return alert("Invalid input. How dare you.");
   }
 };
 
